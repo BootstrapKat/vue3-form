@@ -36,7 +36,7 @@ hr {
   overflow: visible;
 }
 a {
-  color: #39b982;
+  color: blue;
   font-weight: 600;
   background-color: transparent;
 }
